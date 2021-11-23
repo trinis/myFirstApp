@@ -1,0 +1,17 @@
+$welcome_text_color: rgba(19, 102, 70, 0.884);
+$welcome_button_color: rgba(153, 13, 24, 0.856);
+$welcome_button_background_color: rgba(53, 116, 53, 0.212);
+
+.welcome-header-div{
+    color:$welcome_text_color;    
+    text-align: center;
+}
+.welcome-button{    
+    color: $welcome_button_color;
+    width: 200px;
+    height: 100px;    
+}
+
+
+
+  
